@@ -8,6 +8,3 @@
    - Second color
 3. Paste it into Lovable and press Enter.
 4. Look at your website!
-
-Bonus round: Now try adding your own line at the end, like
-"Make the headline bigger" or "Add a section about my favorite food."
