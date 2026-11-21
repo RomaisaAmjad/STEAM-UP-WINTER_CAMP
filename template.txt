@@ -1,0 +1,33 @@
+Build a fun, colorful, kid-friendly website.
+
+=== WRITE INFORMATION ===
+Website name: 
+What the website is about: 
+Main color: 
+Second color: 
+=== END OF KIDS' PART ===
+
+Please follow these rules:
+
+1. Page sections, from top to bottom:
+   - A navigation bar with the website name as the logo
+   - A big hero section with a catchy headline and a short welcome line about the topic, plus a button
+   - An "About" section explaining the topic in simple words
+   - A "Cool Things" section with 3 cards, each with an emoji icon, a title, and a short description about the topic
+   - A "Fun Facts" section with 4 interesting facts about the topic
+   - A "Gallery" section with 6 colorful placeholder boxes
+   - A footer with the website name and "Made by a young creator"
+
+2. Design:
+   - Use the main color and second color as the theme across the whole site (buttons, headings, backgrounds)
+   - Use big, easy-to-read fonts and rounded corners
+   - Add smooth hover effects on buttons and cards
+   - Make it look good on both phones and computers
+
+3. Content:
+   - Write all the text yourself based on the topic, in simple, friendly language for kids aged 11-14
+   - Make it feel exciting and fun
+
+4. Safety:
+   - Do not add login, sign-up, or any forms that collect personal information
+   - Keep all content appropriate for school
